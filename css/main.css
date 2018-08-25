@@ -1948,7 +1948,7 @@ input::-moz-focus-inner {
 }
 
 .home-content__main {
-  padding-top: 15rem;
+  padding-top: 6rem;
   padding-right: 20rem;
   position: relative;
 }
@@ -2211,7 +2211,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__main {
-    padding-top: 18rem;
+    padding-top: 7rem;
   }
 
   .home-sidelinks {
@@ -2430,8 +2430,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   background-color: #ffffff;
   position: relative;
 }
@@ -2499,8 +2499,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
   .s-about {
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
   }
 
   .process__vline-left {
@@ -2526,8 +2526,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-about {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
   }
 
   .process {
@@ -2557,7 +2557,7 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 400px) {
   .s-about {
-    padding-top: 9.6rem;
+    padding-top: 6.6rem;
   }
 
   .process h4 {
@@ -2591,8 +2591,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   color: #555555;
   position: relative;
 }
@@ -2623,8 +2623,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
   .s-services {
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 7rem;
+    padding-bottom:7rem;
   }
 
   .services-list [class*="col-"]:nth-child(2n + 1) {
@@ -2636,8 +2636,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-services {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
   }
 
   .services-list {
@@ -2657,7 +2657,7 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 400px) {
   .s-services {
-    padding-top: 9.6rem;
+    padding-top: 6.6rem;
   }
 
   .services-list [class*="col-"]:nth-child(n) {
@@ -3193,8 +3193,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 21rem;
-  padding-bottom: 10.2rem;
+  padding-top: 10rem;
+  padding-bottom: 7.2rem;
   background-color: #111111;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
@@ -3441,7 +3441,7 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 1200px) {
   .s-contact {
-    padding-top: 15rem;
+    padding-top: 7rem;
   }
 
   .contact-main {
@@ -3487,8 +3487,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-contact {
-    padding-top: 12rem;
-    padding-bottom: 9rem;
+    padding-top: 7rem;
+    padding-bottom: 5rem;
   }
 
   .contact-secondary,
@@ -3583,7 +3583,7 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 400px) {
   .s-contact {
-    padding-top: 9.6rem;
+    padding-top: 6.6rem;
     padding-bottom: 3rem;
   }
 
